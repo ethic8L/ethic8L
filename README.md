@@ -5,7 +5,7 @@ I am a university student with a strong passion for cybersecurity and a commitme
 
 ## Objective
 
-Aspiring to transition into cybersecurity with a focus on joining a Security Operations Center (SOC) as a Tier 1 Analyst. Eager to apply my computer science background, technical skills, and passion for digital security to contribute to threat detection and incident response efforts. Committed to continuous learning and enhancing the security posture of an organization.
+Aspiring to transition into cybersecurity. Eager to apply my computer science background, technical skills, and passion for digital security to contribute to threat detection and incident response efforts. Committed to continuous learning and enhancing the security posture of an organization.
 
 ## Skills
 
