@@ -21,26 +21,25 @@ Aspiring software engineer with a strong interest in cybersecurity and artificia
 
 ## Tools
 
+### Development
+<div> <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" /> </div>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Programming & Scripting languages 
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+<div> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" /> <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" /> </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+### Cybersecurity
+
+<div> <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /> <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> <img src="https://img.shields.io/badge/-TheHive-222222?&style=for-the-badge&logoColor=white" /> </div>
+
+### AI & Data
+
+<div> <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/-scikit_learn-F7931E?&style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" /> </div>
+
+### SIEM & Monitoring
+
+<div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
+
 
 ## Certifications
 <div>
