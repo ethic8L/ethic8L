@@ -7,17 +7,21 @@ I am a university student with a primary focus on software engineering, passiona
 
 Aspiring software engineer with a strong interest in cybersecurity and artificial intelligence. Eager to leverage my technical skills and passion for building secure, intelligent applications that drive innovation and enhance digital security. Committed to continuous learning and contributing to projects that integrate software development, AI, and cybersecurity principles.
 
-## Skills
 
+## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| **Software Development & Design Patterns**    | Various Academic & Personal Projects |
+| **Full-Stack Web Development (HTML, CSS, JavaScript)** | Portfolio Website |
+| **Object-Oriented Programming (OOP)**         | Java & Python Applications |
+| **API Development and Integration**           | Personal & Group Projects |
+| **Cybersecurity Fundamentals & Threat Detection** | Detection Lab |
+| **Security Automation & Incident Response**   | SOC Automation Lab |
+| **Data Analysis & Machine Learning**          | AI Lab & Data Science Projects |
+| **Network Traffic Monitoring & Attack Detection** | Detection Lab |
+| **Scripting & Automation for System Processes** | SOC Automation Lab |
+
 
 ## Tools
 
