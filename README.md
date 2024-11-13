@@ -45,9 +45,8 @@ Aspiring to transition into cybersecurity. Eager to apply my computer science ba
 ## Certifications
 <div>
 - CompTIA Security+ (in progress)
-- CompTIA Network+ (in progress)
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Soon ... 
+- Soon ...
