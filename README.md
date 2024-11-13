@@ -5,7 +5,7 @@ I am a university student with a primary focus on software engineering, passiona
 
 ## Objective
 
-Aspiring to transition into cybersecurity. Eager to apply my computer science background, technical skills, and passion for digital security to contribute to threat detection and incident response efforts. Committed to continuous learning and enhancing the security posture of an organization.
+Aspiring software engineer with a strong interest in cybersecurity and artificial intelligence. Eager to leverage my technical skills and passion for building secure, intelligent applications that drive innovation and enhance digital security. Committed to continuous learning and contributing to projects that integrate software development, AI, and cybersecurity principles.
 
 ## Skills
 
