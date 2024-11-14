@@ -51,5 +51,5 @@ Aspiring software engineer with a strong interest in cybersecurity and artificia
 </div>
 
 ## Projects
-- **Responsive Coffee Shop Website** - [View Project](https://github.com/ethic8L/coffee-shop-project)
+- **Responsive Coffee Shop Website** - [View Project](https://github.com/ethic8L/coffe-shop-website.git))
 - Soon ...
