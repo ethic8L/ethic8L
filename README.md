@@ -13,7 +13,7 @@ Aspiring software engineer with a strong interest in cybersecurity and artificia
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | **Software Development & Design Patterns**    | Various Academic & Personal Projects |
-| **Full-Stack Web Development (HTML, CSS, JavaScript)** | Portfolio Website |
+| **Full-Stack Web Development (HTML, CSS, JavaScript)** | Responsive Coffee Shop Website   |
 | **Object-Oriented Programming (OOP)**         | Java & Python Applications |
 | **API Development and Integration**           | Personal & Group Projects |
 | **Cybersecurity Fundamentals & Threat Detection** | Detection Lab |
@@ -51,5 +51,5 @@ Aspiring software engineer with a strong interest in cybersecurity and artificia
 </div>
 
 ## Projects
-- Soon ... 
+- **Responsive Coffee Shop Website** - [View Project](https://github.com/ethic8L/coffee-shop-project)
 - Soon ...
