@@ -1,7 +1,7 @@
 # Hello, I'm ethic8L
 <a href="https://www.linkedin.com/in/artsiom-litvinchuk-a1750a29a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a university student with a primary focus on software engineering, passionate about designing and building reliable, high-performance applications. I’m also keenly interested in cybersecurity and artificial intelligence, exploring ways these fields can enhance software resilience and innovation. My expertise includes developing efficient solutions, identifying potential vulnerabilities, and implementing secure and intelligent software systems.
+I am a university student with a primary focus on software engineering, passionate about designing and building reliable, high-performance applications. I’m also keenly interested in artificial intelligence, exploring ways these field can enhance software resilience and innovation. My expertise includes developing efficient solutions, identifying potential vulnerabilities, and implementing secure and intelligent software systems.
 
 ## Objective
 
