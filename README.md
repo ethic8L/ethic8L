@@ -16,11 +16,7 @@ Aspiring software engineer with a strong interest in cybersecurity and artificia
 | **Full-Stack Web Development (HTML, CSS, JavaScript)** | Responsive Coffee Shop Website   |
 | **Object-Oriented Programming (OOP)**         | Java & Python Applications |
 | **API Development and Integration**           | Personal & Group Projects |
-| **Cybersecurity Fundamentals & Threat Detection** | Detection Lab |
-| **Security Automation & Incident Response**   | SOC Automation Lab |
 | **Data Analysis & Machine Learning**          | AI Lab & Data Science Projects |
-| **Network Traffic Monitoring & Attack Detection** | Detection Lab |
-| **Scripting & Automation for System Processes** | SOC Automation Lab |
 
 
 ## Tools
