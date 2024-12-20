@@ -31,7 +31,7 @@ Aspiring software engineer with a strong interest in cybersecurity and artificia
 
 ### AI & Data
 
-<div> <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/-scikit_learn-F7931E?&style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" /> </div>
+<div> <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" /> </div>
 
 ### SIEM & Monitoring
 
