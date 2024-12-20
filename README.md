@@ -33,15 +33,6 @@ Aspiring software engineer with a strong interest in cybersecurity and artificia
 
 <div> <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" /> </div>
 
-### SIEM & Monitoring
-
-<div> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
-
-
-## Certifications
-<div>
-- CompTIA Security+ (in progress)
-</div>
 
 ## Projects
 - **Responsive Coffee Shop Website** - [View Project](https://github.com/ethic8L/coffe-shop-website.git)
