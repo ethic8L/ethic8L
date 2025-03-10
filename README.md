@@ -47,13 +47,6 @@ Aspiring software engineer with a strong interest in cybersecurity and artificia
   <img src="https://img.shields.io/badge/-Express.js-000000?&style=for-the-badge&logo=Express&logoColor=white" />
 </div>
 
-### AI & Data
-
-<div> 
-  <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" /> 
-</div>
 
 
 ## Projects
