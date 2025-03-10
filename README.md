@@ -30,7 +30,7 @@ Aspiring software engineer with a strong interest in cybersecurity and artificia
   <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?&style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
 </div>
 
 ### Programming & Scripting languages 
