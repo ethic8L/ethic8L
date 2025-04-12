@@ -14,11 +14,10 @@ Aspiring software engineer. Eager to leverage my technical skills and passion fo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| **Software Development & Design Patterns**    | Various Academic & Personal Projects |
-| **Full-Stack Web Development (HTML, CSS, JavaScript)** |  |
+| **Software Development & Design Patterns**    | Various Academic & Personal Projects & Contributing to Open Source |
+| **Full-Stack Web Development (React, Next.js, JS, Node.js (Express))** |  Personal Projects & Freelance|
 | **Object-Oriented Programming (OOP)**         | Java / JavaScript / Python Applications |
-| **API Development and Integration**           | Personal & Group Projects |
-| **Data Analysis & Machine Learning**          | AI Lab & Data Science Projects |
+| **API Development and Integration**           | Personal & Academic & Group Projects |
 
 
 ## Tools
