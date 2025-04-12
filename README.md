@@ -7,7 +7,7 @@ I am a university student with a primary focus on software engineering, passiona
 
 ## Objective
 
-Aspiring software engineer with a strong interest in cybersecurity and artificial intelligence. Eager to leverage my technical skills and passion for building secure, intelligent applications that drive innovation and enhance digital security. Committed to continuous learning and contributing to projects that integrate software development, AI, and cybersecurity principles.
+Aspiring software engineer. Eager to leverage my technical skills and passion for building secure, intelligent applications that drive innovation and enhance digital security. Committed to continuous learning and contributing to projects that integrate software development, AI, and cybersecurity principles.
 
 
 ## Skills
