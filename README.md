@@ -1,4 +1,4 @@
-# I'm Tim
+# I'm Artyom
 <a href="https://www.linkedin.com/in/artsiom-litvinchuk-a1750a29a/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
